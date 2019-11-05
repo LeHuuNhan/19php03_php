@@ -1,0 +1,29 @@
+h1 {
+	text-align: center;
+}
+
+.form-dang-san-pham {
+	width: 500px;
+	height: 500px;
+	margin: auto;
+	border: 1px solid black;
+}
+
+.label {
+	width: 20%;
+	float: left;
+}
+.input {
+	width: 70%;
+	float: left;
+}
+.error {
+	color: red;
+}
+img {
+	width: 150px;
+}
+.form-control {
+	margin: 20px;
+	padding: 10px;
+}
